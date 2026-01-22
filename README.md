@@ -1,49 +1,29 @@
+# 💎 Gemstone Market
+
+Website e-commerce sederhana untuk penjualan **batu cincin / gemstone**, cincin jadi, aksesoris batu & kayu, serta produk handmade artisan.
 
 ---
 
-## 🛍️ Fitur Utama
+## 🌿 Tentang Project
 
-- Sticky Navbar dengan tema gemstone
-- Running text (nomor WhatsApp & lokasi)
-- Kategori penjualan
-- Shop by Type (dengan tombol Visit Products)
-- Recent Gemstone Sales (horizontal auto scroll)
-- Testimonial pelanggan
-- Footer dengan informasi kontak & quick links
-- Responsive (Desktop, Tablet, Mobile)
+**Gemstone Market** adalah website frontend statis yang menampilkan:
+- Kategori penjualan batu cincin & perhiasan alam
+- Etalase produk gemstone
+- Informasi kontak & sosial media
+- Tampilan modern dengan nuansa warna batu alam (emerald & gold)
 
----
-
-## 🎨 Konsep Desain
-
-- **Warna utama:** Emerald Green & Gold
-- **Gaya:** Elegant, Natural, Handmade Artisan
-- **Target:** Pecinta batu cincin & perhiasan alam
+Website ini dibangun menggunakan **HTML & CSS murni**, tanpa framework.
 
 ---
 
-## 🚀 Cara Menjalankan Project
+## 🧱 Teknologi yang Digunakan
 
-1. Download / clone repository
-2. Buka file `index.html`
-3. Jalankan di browser (Chrome / Firefox)
-
-Tidak membutuhkan backend atau server khusus.
-
----
-
-## 📌 Catatan
-
-Project ini masih berupa **frontend static website**.  
-Pengembangan selanjutnya dapat meliputi:
-- Backend (PHP / Laravel / Node.js)
-- Sistem produk & checkout
-- Integrasi marketplace (Shopee, Tokopedia)
-- Integrasi WhatsApp API
+- HTML5  
+- CSS3 (Flexbox & Grid)  
+- Responsive Web Design  
+- Pure CSS Animation (running text & product slider)
 
 ---
 
-## © Lisensi
+## 📂 Struktur Folder
 
-© 2026 Gemstone Market  
-Digunakan untuk keperluan pembelajaran & pengembangan.
